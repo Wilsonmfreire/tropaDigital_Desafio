@@ -1,0 +1,90 @@
+body {
+    width: 1799px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    background: #E5E5E5;
+}
+
+#tropa{
+    position: absolute;
+    width: 190px;
+    height: 56.88px;
+    left: 35px;
+    top: 50px; 
+}
+
+#inicio{
+    position: absolute;
+    width: 226px;
+    height: 50px;
+    left: 34px;
+    top: 157px;    
+    background: #F3F3F3;
+    border-radius: 10px 0px 0px 10px;
+    text-align: center;
+    color: #000000;    
+}
+
+p{
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 186.5%;
+}
+
+#menu1, #relatorio, #menu2, #menu3, #menu4{
+    color: #FFFFFF;
+    background: #2EAFB2;
+    border-radius: 5px;
+}
+
+#Rectangle1{
+    width: 252px;
+    height: 1096px;
+    left: 0px;
+    top: 0px;
+    background: white;
+}
+
+.grupo1, .grupo2, .grupo3, .grupo4, .grupo5, .grupo6, .grupo7, .grupo8, .grupo9 {
+    position: absolute;
+    width: 500px;
+    height: 228px;
+    left: 308px;
+    top: 140px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.09);
+}
+.grupo2{
+    left: 825px;
+}
+.grupo3{
+    left: 1344px;
+}
+.grupo4{
+    top: 400px;
+}
+.grupo5{
+    top: 400px;   left: 825px;
+}
+.grupo6{
+    top: 400px;   left:  1344px;
+}
+.grupo7{
+    top: 661px;
+}
+.grupo8{
+    top: 661px;left: 825px;
+}
+.grupo9{
+    top: 661px;left: 1344px;;
+}
+
+
+#moca{
+    position: relative;
+    left: 19px;
+    top: 10px;
+}
